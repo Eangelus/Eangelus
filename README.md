@@ -1,7 +1,7 @@
 ## Hi there 👋, I´m Tom!
 
 # 💫 About Me:
-A passionate software designer.<br><br>It started with my Commodore 64 and continues to this day.<br>I always wanted to become a programmer, in 2021 I took the plunge and started training as an application developer. Since 2023, I have also been a programmer on paper.<br><br>When I got bored of hardware, I started learning Java in my spare time, followed by C++. <br><br>During my training as an application developer, Python and C# were on the agenda. My prior knowledge of OOP and the other languages led me to learn the first frameworks.<br><br><br>I am currently working with Javascript, Django and Docker<br>
+A passionate software designer.<br><br>It started with my Commodore 64 and continues to this day.<br>I always wanted to become a programmer, in 2021 I took the plunge and started training as an application developer. Since 2023, I have also been a programmer on paper.<br><br>When I got bored of hardware, I started learning Java in my spare time, followed by C++. <br><br>During my training as an application developer, Python and C# were on the agenda. My prior knowledge of OOP and the other languages led me to learn the first frameworks.<br><br><br>I am currently working with Docker, LLM , Ollama, Blazor and Maui<br>
 
 
 ## 🌐 Socials:
