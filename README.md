@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Thomas Bernecker</h1>
 <p align="center">
-  <strong>Softwareentwickler · Technical Lead (faktisch) · KI-Architekt (Junior)</strong><br>
+  <strong>Anwendungsentwickler (C# Backend) · Technical Lead (faktisch) · Junior KI-Architekt</strong><br>
   Standort: Ittling, Bayern · Arbeitgeber: Lindner Group
 </p>
 
@@ -27,7 +27,7 @@
 📦 **Umfang:** 15 Teilprojekte  
 ⚙️ **Status:** Plattform bereit für den Produktiveinsatz, finale Abstimmung & Go-Live-Planung laufen
 
-Das Preiswürfel Backend ist technisch vollständig ausgereift und steht nach umfassender Überarbeitung unmittelbar vor dem Produktiveinsatz. Der Go-Live ist vorbereitet, letzte Abstimmungen mit den Stakeholdern laufen.
+Das Preiswürfel Backend ist technisch vollständig ausgereift und steht nach umfassender Überarbeitung unmittelbar vor dem Produktiveinsatz. Der Go-Live ist vorbereitet, letzte Abstimmungen mit Stakeholdern laufen.
 
 ### 🔧 Technische Highlights
 - Architekturdesign & Refactoring  
@@ -62,9 +62,9 @@ Das Preiswürfel Backend ist technisch vollständig ausgereift und steht nach um
 ## 📝 Externe Code-Review & Verbesserungsbilanz
 
 Im Juli 2025 wurde das Preiswürfel-Backend durch eine erfahrene Entwicklerin unabhängig geprüft.  
-Die Review bestätigte die moderne Architektur und solide Codebasis, benannte aber auch eine Reihe kritischer, mittelfristiger und langfristiger Verbesserungsmaßnahmen (u.a. Security, Testing, Performance, Dokumentation, Architektur).
+Die Review bestätigte die moderne Architektur und solide Codebasis, benannte aber auch eine Reihe kritischer, mittelfristiger und langfristiger Verbesserungsmaßnahmen (u.a. Security, Testing, Performance).
 
-**Alle in der Review aufgeführten Punkte habe ich eigenverantwortlich, vollständig und erfolgreich umgesetzt** – von der Beseitigung sämtlicher Sicherheitslücken über den Ausbau der Testabdeckung und Dokumentation bis hin zur Implementierung von Caching, Health-Checks und API-Versionierung.
+**Alle in der Review aufgeführten Punkte habe ich eigenverantwortlich, vollständig und erfolgreich umgesetzt** – von der Beseitigung sämtlicher Sicherheitslücken über den Ausbau der Testabdeckung bis zur Optimierung von Performance und Wartbarkeit.
 
 > „Die Kombination aus sauberer Architektur, modernem Tech-Stack und durchdachter Struktur zeigt, dass hier mit Kompetenz und Sorgfalt entwickelt wurde.“  
 > – Code-Review, Juli 2025
