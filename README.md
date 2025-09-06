@@ -57,6 +57,20 @@
 
 ---
 
+## 📝 Externe Code-Review & Verbesserungsbilanz
+
+Im Juli 2025 wurde das Preiswürfel-Backend durch eine erfahrene Entwicklerin unabhängig geprüft.  
+Die Review bestätigte die moderne Architektur und solide Codebasis, benannte aber auch eine Reihe kritischer, mittelfristiger und langfristiger Verbesserungsmaßnahmen (u.a. Security, Testing, Performance, Dokumentation, Architektur).
+
+**Alle in der Review aufgeführten Punkte habe ich eigenverantwortlich, vollständig und erfolgreich umgesetzt** – von der Beseitigung sämtlicher Sicherheitslücken über den Ausbau der Testabdeckung und Dokumentation bis hin zur Implementierung von Caching, Health-Checks und API-Versionierung.
+
+> „Die Kombination aus sauberer Architektur, modernem Tech-Stack und durchdachter Struktur zeigt, dass hier mit Kompetenz und Sorgfalt entwickelt wurde.“  
+> – Code-Review, Juli 2025
+
+Das System entspricht heute Best-Practice-Standards und ist produktiv im Einsatz.
+
+---
+
 ## 📂 Eigene Projekte auf GitHub
 
 ### 🛠️ [ProjektManager](https://github.com/Eangelus/ProjektManager)
