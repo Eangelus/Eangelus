@@ -1,26 +1,110 @@
-## Hi there 👋, I´m Tom!
-
-# 💫 About Me:
-A passionate software designer.<br><br>It started with my Commodore 64 and continues to this day.<br>I always wanted to become a programmer, in 2021 I took the plunge and started training as an application developer. Since 2023, I have also been a programmer on paper.<br><br>When I got bored of hardware, I started learning Java in my spare time, followed by C++. <br><br>During my training as an application developer, Python and C# were on the agenda. My prior knowledge of OOP and the other languages led me to learn the first frameworks.<br><br><br>I am currently working with Docker, LLM , Ollama, Blazor and Maui<br>
-
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Eangelus) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Eangelus) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eangelus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eangelus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eangelus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eangelus&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">👨‍💻 Thomas Bernecker</h1>
+<p align="center">
+  <strong>Softwareentwickler · Technical Lead (faktisch) · KI-Architekt (Junior)</strong><br>
+  Standort: Ittling, Bayern · Arbeitgeber: Lindner Group
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eangelus&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 Entwicklerreise
+
+💾 **Frühphase:**  
+- Einstieg über Hardware & Commodore 64  
+- Erste Programmierversuche mit Java & C++  
+- Begeisterung für objektorientierte Programmierung  
+- Selbststudium und erste Frameworks
+
+🎓 **Ausbildung & Professionalisierung:**  
+- Ausbildung zum Anwendungsentwickler ab 2021  
+- Seit 2023 offiziell als Entwickler tätig  
+- Fokus auf Backend, Automatisierung, KI & Architektur
+
+---
+
+## 🚀 Hauptprojekt: Preiswürfel Backend
+
+📅 **Seit:** 01.04.2025  
+📦 **Umfang:** 15 Teilprojekte  
+⚙️ **Status:** Produktionsreife Plattform mit aktiver Weiterentwicklung
+
+### 🔧 Technische Highlights
+- Architekturdesign & Refactoring  
+- Fehlerhandling mit Middleware  
+- Objektorientiertes JSON-Mapping  
+- CI/CD inkl. Release-Planung  
+- 100+ Tests mit xUnit & FluentAssertions  
+- Health-Checks & Metriken integriert  
+- Docker-Deployment  
+- Sicherheitslücken wie SQL-Injection behoben
+
+### 🤖 KI-gestützte Automatisierung
+- Automatisierte Verarbeitung von Excel-Dateien  
+- HTML-Zusammenfassungen + Codegenerierung  
+- Modulare Schnittstelle für verschiedene Sprachmodelle  
+- Kommunikation über JSON  
+- Ziel: Verständlichkeit, Skalierbarkeit, Effizienz
+
+### 🔗 Systemintegration
+- Bestehender Microservice eingebunden  
+- Datenfluss analysiert & stabil integriert  
+- Fokus auf Erweiterbarkeit & Wartbarkeit
+
+### 📋 Projektmanagement & Kommunikation
+- Jira-Backlog gepflegt  
+- Dokumentation in Confluence  
+- Übergabegespräche & Stakeholder-Abstimmung  
+- Mitgestaltung beim Übergang zu Oxaion Infinite
+
+---
+
+## 📂 Eigene Projekte auf GitHub
+
+### 🛠️ [ProjektManager](https://github.com/Eangelus/ProjektManager)
+Ein Tool zur Auswertung und Visualisierung von Excel-Projektdaten  
+- Architektur: MVVM  
+- Technologien: .NET, WPF, EF Core, OpenXml, LiveCharts2  
+- Visualisierung: Tortendiagramme, Stundenbuchung, Projektstatus  
+- Datenbankmodell: Probleme, Zustände, Tätigkeiten, Mitarbeiter
+
+### 🐍 [Excel-Tool (Python)](https://github.com/Eangelus/Excel-Tool)
+Ein leichtgewichtiges Tool zur Bearbeitung und Sicherung von Excel-Dateien  
+- Synchronisation von zwei Excel-Dateien  
+- Backup-Funktion in TXT-Datei  
+- GUI + Dokumentation auf Deutsch
+
+### 💬 [Profil-Repository](https://github.com/Eangelus/Eangelus)
+- Überblick über deinen Werdegang  
+- Einstieg über Commodore 64, Java, C++  
+- Motivation & Lernweg dokumentiert
+
+---
+
+## 🧠 Persönliche Stärken
+
+| 💡 Kompetenz         | 🧩 Bewertung                            |
+|----------------------|-----------------------------------------|
+| Technisches Niveau   | Senior Developer mit Lead-Kompetenz     |
+| Verantwortung        | Technical Lead (faktisch)               |
+| Innovationskraft     | Hoch – KI & Automatisierung             |
+| Lernfähigkeit        | Sehr hoch – strukturiert & reflektiert  |
+| Kommunikation        | Lösungsorientiert & teamfähig           |
+| Selbstorganisation   | Extrem stark – 15 Teilprojekte allein umgesetzt |
+
+---
+
+## 🎯 Zielposition & Perspektive
+
+**Empfohlene Rollen:**  
+- Technical Lead  
+- Software Architect (Junior/Senior)  
+- Solution Engineer mit KI-Fokus
+
+📌 Einschätzung basiert auf Verantwortung, Projekttiefe & technischer Breite  
+📍 Region: Bayern, Deutschland
+
+---
+
+## 📬 Kontakt
+
+📧 **E-Mail:** [bernecker.thomas@gmx.de](mailto:bernecker.thomas@gmx.de)  
+📍 **Standort:** Ittling, Bayern, Deutschland
