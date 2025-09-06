@@ -25,7 +25,9 @@
 
 📅 **Seit:** 01.04.2025  
 📦 **Umfang:** 15 Teilprojekte  
-⚙️ **Status:** Produktionsreife Plattform mit aktiver Weiterentwicklung
+⚙️ **Status:** Plattform bereit für den Produktiveinsatz, finale Abstimmung & Go-Live-Planung laufen
+
+Das Preiswürfel Backend ist technisch vollständig ausgereift und steht nach umfassender Überarbeitung unmittelbar vor dem Produktiveinsatz. Der Go-Live ist vorbereitet, letzte Abstimmungen mit den Stakeholdern laufen.
 
 ### 🔧 Technische Highlights
 - Architekturdesign & Refactoring  
