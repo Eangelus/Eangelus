@@ -111,7 +111,6 @@ Ein leichtgewichtiges Tool zur Bearbeitung und Sicherung von Excel-Dateien
 ## 🎯 Zielposition & Perspektive
 
 **Empfohlene Rollen:**  
-- Technical Lead  
 - Software Architect (Junior/Senior)  
 - Solution Engineer mit KI-Fokus
 
