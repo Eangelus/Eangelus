@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Thomas Bernecker</h1>
 <p align="center">
-  <strong>Anwendungsentwickler (C# Backend) · Technical Lead (faktisch) · Junior KI-Architekt</strong><br>
+  <strong>Softwarearchitekt (C# Backend & KI) · Solution Engineer</strong><br>
   Standort: Ittling, Bayern · Arbeitgeber: Lindner Group
 </p>
 
