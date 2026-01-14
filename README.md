@@ -1,8 +1,18 @@
 <h1 align="center">👨‍💻 Thomas Bernecker</h1>
 <p align="center">
-Full-Stack Software Engineer | C# / .NET
-Spezialist für Enterprise-Systeme: Clean Architecture, 
-Datenbank-Design, DevOps.
+👋 Full-Stack Developer | C# / .NET | Enterprise Systems
+
+🛠️ Spezialist für:
+- Backend: .NET 8+, Clean Architecture, Datenbank-Design
+- DevOps: Docker, GitLab CI/CD, Monitoring
+- Enterprise: ERP-Integration, Performance-Optimierung, Security
+
+📦 Portfolio: PriceCube (12K LOC, Peer-Reviewed)
+   → github.com/Eangelus/PriceCube
+
+📍 Lindner Group | Bayern
+
+Pragmatischer, eigenverantwortlicher Developer mit Enterprise-Systemkompetenz
 
 📦 Aktuelle Projekte:
 - PriceCube: Enterprise-Kalkulationssystem (12K LOC, Peer-Reviewed)
