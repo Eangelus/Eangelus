@@ -22,5 +22,5 @@ Pragmatischer, eigenverantwortlicher Developer mit Enterprise-Systemkompetenz
 
 ## 📫 Kontakt
 - bernecker.thomas@gmx.de
-- GitHub: https://github.com/Eangelus
+- www.linkedin.com/in/thomas-bernecker
 
