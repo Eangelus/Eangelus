@@ -7,7 +7,7 @@
 - DevOps: Docker, GitLab CI/CD, Monitoring
 - Enterprise: ERP-Integration, Performance-Optimierung, Security
 
-📦 Portfolio: PriceCube (12K LOC, Peer-Reviewed)
+📦 Portfolio: PriceCube (Peer-Reviewed)
    → github.com/Eangelus/PriceCube
 
 📍 Lindner Group | Bayern
