@@ -15,7 +15,7 @@
 Pragmatischer, eigenverantwortlicher Developer mit Enterprise-Systemkompetenz
 
 📦 Aktuelle Projekte:
-- PriceCube: Enterprise-Kalkulationssystem (12K LOC, Peer-Reviewed)
+- PriceCube: Enterprise-Kalkulationssystem ( Peer-Reviewed)
 - Robotik-Integration (Python, ROS2)
 
 💡 Fokus: Qualität, Performance, dokumentierte Systeme
