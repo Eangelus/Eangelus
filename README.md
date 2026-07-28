@@ -13,6 +13,24 @@ Codeausführung.
 für Windows-Enterprise-Software, ohne Python-, CUDA- oder Cloud-Abhängigkeit zur Laufzeit.
 → [github.com/Eangelus/dx12-ai-runtime-overview](https://github.com/Eangelus/dx12-ai-runtime-overview)
 
+Beide Projektübersichten enthalten je einen konkreten Architektur-Ausschnitt mit Code
+und Begründung (Deep Dive), nicht nur Beschreibung.
+
+## Wie ich baue
+
+Deterministisch statt Blackbox: nachvollziehbare Entscheidungswege statt "die KI macht
+das schon", Sicherheitsmechanismen als austauschbare, unabhängig testbare Bausteine statt
+verwoben mit der Fachlogik, RAII/Guard-Pattern statt defensiver Einzelfall-Checks. Governance
+und Testbarkeit sind Design-Entscheidungen von Anfang an, keine nachträgliche Ergänzung.
+
+## Tech-Stack
+
+- **Backend:** Python (FastAPI), C# (.NET 8+, Clean Architecture)
+- **Systems/GPU:** C++, DirectX 12 / HLSL Compute Shader
+- **Frontend:** React, Vite
+- **Daten:** SQL Server, SQLite, Dapper
+- **Betrieb:** Docker, GitHub Actions / GitLab CI/CD
+
 ## Hintergrund
 
 Hauptberuflich Software-Entwickler bei der **Lindner Group** (Bayern), Schwerpunkt
